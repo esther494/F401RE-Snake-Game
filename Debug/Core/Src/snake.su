@@ -1,0 +1,6 @@
+../Core/Src/snake.c:11:6:snake_init	32	static
+../Core/Src/snake.c:36:6:snake_update	40	static
+../Core/Src/snake.c:88:5:collision	24	static
+../Core/Src/snake.c:100:6:generate_food	24	static
+../Core/Src/snake.c:114:6:display	32	static
+../Core/Src/snake.c:129:6:clear_screen	16	static

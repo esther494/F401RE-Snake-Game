@@ -126,7 +126,7 @@ int main(void)
 		  snake_init(&snake);
 	  }
 	  else if (snake.game_status == 1) {
-		  generate_food(&snake);
+		  //generate_food(&snake);
 		  //display(&snake);
 	  }
 	  else {

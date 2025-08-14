@@ -24,7 +24,7 @@ typedef struct {
 void snake_init (Snake * snake);
 void snake_update (Snake * snake);
 void generate_food (Snake * snake);
-int collision (Snake * snake); // 0 if bad 1 if good
+int collision (Snake * snake, int row, int col); // 0 if bad 1 if good
 void display (Snake * snake);
 void clear_screen();
 

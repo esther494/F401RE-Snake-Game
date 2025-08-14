@@ -1,6 +1,6 @@
-../Core/Src/snake.c:11:6:snake_init	4
-../Core/Src/snake.c:36:6:snake_update	13
-../Core/Src/snake.c:88:5:collision	5
-../Core/Src/snake.c:100:6:generate_food	3
-../Core/Src/snake.c:114:6:display	2
-../Core/Src/snake.c:129:6:clear_screen	2
+../Core/Src/snake.c:11:6:snake_init	2
+../Core/Src/snake.c:38:6:snake_update	13
+../Core/Src/snake.c:95:5:collision	4
+../Core/Src/snake.c:106:6:generate_food	4
+../Core/Src/snake.c:123:6:display	2
+../Core/Src/snake.c:138:6:clear_screen	2
